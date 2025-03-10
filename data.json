@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Cute Cat",
+    "category": "Cat",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJZ8F8am0MhI_4V9jEkGvnYoibv3e07Yj_5iYb5EJATGOiHeDbhvUfhyrvWT-1mD6YHEc&usqp=CAU"
+  },
+  {
+    "title": "Happy Dog",
+    "category": "Dog",
+    "image_url": "https://placedog.net/400/300"
+  },
+  {
+    "title": "Playful Puppy",
+    "category": "Dog",
+    "image_url": "https://images.unsplash.com/photo-1560807707-8cc77767d783"
+  },
+  {
+    "title": "Lazy Cat",
+    "category": "Cat",
+    "image_url": "https://images.unsplash.com/photo-1574158622682-e40e69881006"
+  },
+  {
+    "title": "Golden Retriever",
+    "category": "Dog",
+    "image_url": "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg"
+  },
+  {
+    "title": "Silly Kitten",
+    "category": "Cat",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKYUIYd5RJQn7C0T9Z97undnHJAyo1w4_-QJ-5Gao6uDdonqaOHkRcGUmmdbzyMrV-Hek&usqp=CAU"
+  },
+  {
+    "title": "Cute Cat",
+    "category": "Cat",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJZ8F8am0MhI_4V9jEkGvnYoibv3e07Yj_5iYb5EJATGOiHeDbhvUfhyrvWT-1mD6YHEc&usqp=CAU"
+  },
+  {
+    "title": "Happy Dog",
+    "category": "Dog",
+    "image_url": "https://placedog.net/400/300"
+  },
+  {
+    "title": "Playful Puppy",
+    "category": "Dog",
+    "image_url": "https://images.unsplash.com/photo-1560807707-8cc77767d783"
+  },
+  {
+    "title": "Lazy Cat",
+    "category": "Cat",
+    "image_url": "https://images.unsplash.com/photo-1574158622682-e40e69881006"
+  },
+  {
+    "title": "Golden Retriever",
+    "category": "Dog",
+    "image_url": "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg"
+  },
+  {
+    "title": "Silly Kitten",
+    "category": "Cat",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKYUIYd5RJQn7C0T9Z97undnHJAyo1w4_-QJ-5Gao6uDdonqaOHkRcGUmmdbzyMrV-Hek&usqp=CAU"
+  }
+]
