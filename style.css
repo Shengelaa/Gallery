@@ -36,21 +36,98 @@
 
 .card img {
   width: 100%;
+  max-width: 200px;
   height: auto;
   border-radius: 5px;
 }
 
 .buttons {
   margin: 2px;
-
-  background-color: #f4f4f4;
+  border: 2px solid #ddd;
+  background-color: white;
   cursor: pointer;
-  width: 80px;
-  height: 20px;
-
+  width: 90px;
+  color: #5c5c5c;
+  height: 25px;
+  border-radius: 9px;
   display: block;
 }
 
 .filter-buttons {
   position: fixed;
+  right: 0.2%;
+}
+
+.thumbnail {
+  width: 150px;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.thumbnail:hover {
+  transform: scale(1.05);
+}
+
+.card {
+  display: inline-block;
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.full-image {
+  max-width: 90%;
+  max-height: 90%;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.5);
+}
+
+.inputDiv {
+  width: 100%;
+  display: flex;
+  max-width: 1670px;
+  margin-top: 20px;
+  justify-content: center;
+}
+
+.input {
+  width: 200px;
+  height: 30px;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  text-align: center;
+  position: fixed;
+  color: black;
+}
+
+.card h3 {
+  margin-top: 8px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 800;
+}
+
+.card p {
+  margin-top: 10px;
+  font-family: sans-serif;
+  margin-bottom: 10px;
+}
+
+.card a {
+  color: red;
+  font-weight: 800;
 }

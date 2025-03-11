@@ -2,61 +2,97 @@
   {
     "title": "Cute Cat",
     "category": "Cat",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJZ8F8am0MhI_4V9jEkGvnYoibv3e07Yj_5iYb5EJATGOiHeDbhvUfhyrvWT-1mD6YHEc&usqp=CAU"
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJZ8F8am0MhI_4V9jEkGvnYoibv3e07Yj_5iYb5EJATGOiHeDbhvUfhyrvWT-1mD6YHEc&usqp=CAU",
+    "desc": "https://en.wikipedia.org/wiki/Cat"
   },
   {
     "title": "Happy Dog",
     "category": "Dog",
-    "image_url": "https://placedog.net/400/300"
+    "image_url": "https://placedog.net/400/300",
+    "desc": "https://en.wikipedia.org/wiki/Dog"
+  },
+  {
+    "title": "Brown Hamster",
+    "category": "Hamster",
+    "image_url": "https://s7d2.scene7.com/is/image/PetSmart/5081327",
+    "desc": "https://en.wikipedia.org/wiki/Hamster"
   },
   {
     "title": "Playful Puppy",
     "category": "Dog",
-    "image_url": "https://images.unsplash.com/photo-1560807707-8cc77767d783"
+    "image_url": "https://images.unsplash.com/photo-1560807707-8cc77767d783",
+    "desc": "https://en.wikipedia.org/wiki/Dog"
   },
   {
     "title": "Lazy Cat",
     "category": "Cat",
-    "image_url": "https://images.unsplash.com/photo-1574158622682-e40e69881006"
+    "image_url": "https://images.unsplash.com/photo-1574158622682-e40e69881006",
+    "desc": "https://en.wikipedia.org/wiki/Cat"
+  },
+  {
+    "title": "Cool Hamster",
+    "category": "Hamster",
+    "image_url": "https://s7d2.scene7.com/is/image/PetSmart/5081324",
+    "desc": "https://en.wikipedia.org/wiki/Hamster"
   },
   {
     "title": "Golden Retriever",
     "category": "Dog",
-    "image_url": "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg"
+    "image_url": "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg",
+    "desc": "https://en.wikipedia.org/wiki/Dog"
   },
   {
     "title": "Silly Kitten",
     "category": "Cat",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKYUIYd5RJQn7C0T9Z97undnHJAyo1w4_-QJ-5Gao6uDdonqaOHkRcGUmmdbzyMrV-Hek&usqp=CAU"
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKYUIYd5RJQn7C0T9Z97undnHJAyo1w4_-QJ-5Gao6uDdonqaOHkRcGUmmdbzyMrV-Hek&usqp=CAU",
+    "desc": "https://en.wikipedia.org/wiki/Cat"
   },
   {
     "title": "Cute Cat",
     "category": "Cat",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJZ8F8am0MhI_4V9jEkGvnYoibv3e07Yj_5iYb5EJATGOiHeDbhvUfhyrvWT-1mD6YHEc&usqp=CAU"
+    "image_url": "https://preview.redd.it/v82wta66q5971.jpg?auto=webp&s=8d13ea0bb4de95723ad5ef7758be71a39bebe35a",
+    "desc": "https://en.wikipedia.org/wiki/Cat"
+  },
+  {
+    "title": "Hamster Eating",
+    "category": "Hamster",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0n_5TwvWQUa3KLqAnTqiYiCdRWvtnz1fbQA&s",
+    "desc": "https://en.wikipedia.org/wiki/Hamster"
   },
   {
     "title": "Happy Dog",
     "category": "Dog",
-    "image_url": "https://placedog.net/400/300"
+    "image_url": "https://placedog.net/400/300",
+    "desc": "https://en.wikipedia.org/wiki/Dog"
   },
   {
     "title": "Playful Puppy",
     "category": "Dog",
-    "image_url": "https://images.unsplash.com/photo-1560807707-8cc77767d783"
+    "image_url": "https://images.unsplash.com/photo-1560807707-8cc77767d783",
+    "desc": "https://en.wikipedia.org/wiki/Dog"
   },
   {
     "title": "Lazy Cat",
     "category": "Cat",
-    "image_url": "https://images.unsplash.com/photo-1574158622682-e40e69881006"
+    "image_url": "https://publish.purewow.net/wp-content/uploads/sites/2/2021/10/laziest-cat-breeds-cat.jpg",
+    "desc": "https://en.wikipedia.org/wiki/Cat"
   },
   {
-    "title": "Golden Retriever",
+    "title": "Cool Hamster",
+    "category": "Hamster",
+    "image_url": "https://s7d2.scene7.com/is/image/PetSmart/5081324",
+    "desc": "https://en.wikipedia.org/wiki/Hamster"
+  },
+  {
+    "title": "PidBull",
     "category": "Dog",
-    "image_url": "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg"
+    "image_url": "https://i.redd.it/u7w1g9hrgp221.jpg",
+    "desc": "https://en.wikipedia.org/wiki/Dog"
   },
   {
     "title": "Silly Kitten",
     "category": "Cat",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKYUIYd5RJQn7C0T9Z97undnHJAyo1w4_-QJ-5Gao6uDdonqaOHkRcGUmmdbzyMrV-Hek&usqp=CAU"
+    "image_url": "https://i.ytimg.com/vi/6mOcNbLXhqk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLASGRqrq-UeirbykA5j6HRCt9GEvg",
+    "desc": "https://en.wikipedia.org/wiki/Cat"
   }
 ]
