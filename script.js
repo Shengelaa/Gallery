@@ -72,6 +72,7 @@ function openImageModal(imageUrl) {
 }
 
 function filterCategory(category) {
+  console.log(category);
   let filteredData = allData;
 
   if (category.toLowerCase() === "cat") {
